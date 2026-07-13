@@ -1,0 +1,6 @@
+apiVersion: v2
+name: example-helm
+description: Example repo
+type: application
+version: 30.0.0
+appVersion: "30.0.0"
