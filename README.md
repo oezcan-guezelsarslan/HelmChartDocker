@@ -1,4 +1,2 @@
 
-# exympleA
-
-Test Tech
+# exympl
